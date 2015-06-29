@@ -1,0 +1,22 @@
+{
+  "name": "url-normalizer",
+  "version": "1.0.0",
+  "description": "Simple Node module to noramlize URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terascope/url-normalizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terascope/url-normalizer/issues"
+  },
+  "homepage": "https://github.com/terascope/url-normalizer#readme",
+  "dependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
